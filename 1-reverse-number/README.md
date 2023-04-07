@@ -22,6 +22,7 @@ Objetivo desse desafio é receber um numero e inverter seus algarismos.
 | [HOOGST](https://github.com/HOOGST) | [Haskell](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/TERRIBLE) | 
 | [patriciafelixx](https://github.com/patriciafelixx) | [Javascript](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/patriciafelixx) |
 | [Camilotk](https://github.com/Camilotk) | [Elixir](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/Camilotk) |
+| [lanjoni](https://github.com/lanjoni) | [OCaml](https://github.com/lambda-study-group/desafios/tree/master/1-reverse-number/lanjoni) |
 
 **Input**: Numero inteiro
 **Output**: Numero inteiro
